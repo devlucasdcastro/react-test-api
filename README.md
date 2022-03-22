@@ -13,6 +13,7 @@ cd ./server/db.js
 
 ### INICIAR O SERVIDOR
 ```sh
+npm start
 node index.js
 ``` 
 ### INICIAR REACT
